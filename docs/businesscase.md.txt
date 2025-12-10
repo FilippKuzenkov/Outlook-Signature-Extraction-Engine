@@ -1,0 +1,51 @@
+📘 3. /docs/business_case.md
+(Your real use case, written professionally)
+________________________________________
+Business Case: Strategic Contact Intelligence Extraction
+This system was developed to support the creation of the 2026 Marketing & Sales Strategy by providing a clear view of who within client organizations communicates with us and in what capacity.
+________________________________________
+Problem Statement
+Client communication often involves individuals from multiple departments:
+•	Marketing
+•	Purchasing
+•	Engineering
+•	HR
+•	Operations
+•	Product Management
+However, this information is locked inside inconsistent, multilingual email signatures.
+Manually analyzing thousands of emails is too slow and error-prone to support strategic planning.
+________________________________________
+Objective
+To automatically extract and consolidate:
+•	Names
+•	Job titles
+•	Departments
+•	Organizational roles
+from 11,352 incoming emails distributed across multiple mailbox folders.
+This allows the organization to:
+•	Identify key stakeholders
+•	Build communication maps
+•	Understand account structures
+•	Support data-driven decision-making
+________________________________________
+Outcome
+•	250–300 unique contact profiles extracted
+•	Clean, consistent dataset suitable for:
+o	CRM enrichment
+o	Stakeholder mapping
+o	Strategy workshops
+o	Cross-functional alignment
+•	Reduced multi-week manual workload to minutes
+•	Established repeatable annual process
+________________________________________
+Business Value
+The system enabled the marketing and leadership teams to:
+•	Identify engagement points within major accounts
+•	Understand which departments contact us most
+•	Map decision-maker chains
+•	Improve targeted communication strategies
+•	Prepare data-backed 2026 planning documentation
+The result was increased clarity, efficiency, and insight for strategic planning.
+________________________________________
+End of business_case.md
+________________________________________
