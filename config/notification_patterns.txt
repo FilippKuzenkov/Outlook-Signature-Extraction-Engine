@@ -1,0 +1,31 @@
+# Patterns for detecting notification-like senders.
+# local_part patterns apply to the part before '@'.
+# domain_part patterns apply to the part after '@'.
+
+[local_part]
+no-reply
+noreply
+do-not-reply
+automated
+mailer-daemon
+notification
+nutzung
+robot
+system
+service
+support
+
+[domain_part]
+github.com
+amazon.de
+paypal.de
+stripe.com
+salesforce.com
+microsoft.com
+google.com
+dropbox.com
+atlassian.com
+zoom.us
+linkedin.com
+facebook.com
+instagram.com

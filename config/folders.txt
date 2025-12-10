@@ -1,0 +1,17 @@
+# One Outlook folder path per line.
+# These are relative to the Inbox/Posteingang of your shared mailbox.
+# You can comment lines out with '#'.
+Inbox
+Inbox\2025
+Inbox\2025\01_January
+Inbox\2025\02_February
+Inbox\2025\03_March
+Inbox\2025\04_April
+Inbox\2025\05_May
+Inbox\2025\06_June
+Inbox\2025\07_July
+Inbox\2025\08_August
+Inbox\2025\09_September
+Inbox\2025\10_October
+Inbox\2025\11_November
+Inbox\2025\12_December

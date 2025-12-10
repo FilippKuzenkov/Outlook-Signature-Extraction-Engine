@@ -1,0 +1,49 @@
+# Extra / composite department tokens
+# Used in addition to department_keywords.txt.
+
+marketing & communications
+marketing and communications
+marketing & sales
+marketing and sales
+sales & marketing
+sales and marketing
+
+human resources & organisation
+hr & organisation
+people and culture
+people & culture
+
+legal & compliance
+legal and compliance
+governance & compliance
+governance, risk & compliance
+
+risk & compliance
+risk and compliance
+risk management & compliance
+
+finance & controlling
+finance and controlling
+controlling & reporting
+finance and accounting
+
+product & engineering
+product and engineering
+product & tech
+product and tech
+
+operations & logistics
+operations and logistics
+logistics & supply chain
+supply chain management
+
+sustainability & esg
+esg & sustainability
+environment, social & governance
+environmental, social and governance
+
+corporate development
+business development & strategy
+business development and strategy
+strategy & transformation
+strategy and transformation

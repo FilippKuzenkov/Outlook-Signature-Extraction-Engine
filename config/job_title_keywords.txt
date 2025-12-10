@@ -1,0 +1,78 @@
+# Core job title keywords (German + English)
+# Used by rules.detect_position, bottom-up over core_lines.
+
+manager
+projektmanager
+projektmanagerin
+projektleitung
+projektleiter
+projektleiterin
+consultant
+berater
+beraterin
+senior consultant
+junior consultant
+geschäftsführer
+geschaeftsfuehrer
+geschaeftsführer
+geschäftsführerin
+geschaeftsfuehrerin
+managing director
+director
+head of
+teamlead
+team lead
+teamleiter
+teamleiterin
+referent
+referentin
+sachbearbeiter
+sachbearbeiterin
+specialist
+expert
+coordinator
+koordinator
+koordinatorin
+engineer
+ingenieur
+ingenieurin
+developer
+entwickler
+entwicklerin
+designer
+strategist
+analyst
+analystin
+
+anwalt
+anwältin
+rechtsanwalt
+rechtsanwältin
+fachanwalt
+fachanwältin
+partner
+associate
+counsel
+notar
+notarin
+
+intern
+praktikant
+praktikantin
+werkstudent
+werkstudentin
+
+owner
+founder
+co-founder
+chief
+cxo
+ceo
+cfo
+coo
+cto
+cmo
+chro
+vp
+vice president
+president

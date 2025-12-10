@@ -1,0 +1,13 @@
+# One meta CSV per line, relative to the project root
+meta_Inbox_2025.csv
+meta_Inbox_2025_01_January.csv
+meta_Inbox_2025_02_February.csv
+meta_Inbox_2025_03_March.csv
+meta_Inbox_2025_04_April.csv
+meta_Inbox_2025_05_May.csv
+meta_Inbox_2025_06_June.csv
+meta_Inbox_2025_07_July.csv
+meta_Inbox_2025_08_August.csv
+meta_Inbox_2025_09_September.csv
+meta_Inbox_2025_10_October.csv
+meta_Inbox_2025_11_November.csv

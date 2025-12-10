@@ -1,0 +1,50 @@
+# Extra title tokens (weaker hints / multi-word titles)
+# Also used in rules.detect_position.
+
+project manager
+project management
+key account manager
+account manager
+marketing manager
+sales manager
+product manager
+product owner
+scrum master
+team manager
+
+legal counsel
+general counsel
+in-house counsel
+corporate lawyer
+corporate counsel
+
+master data manager
+master data and process manager
+process manager
+process management
+contracts manager
+contracts management
+contract manager
+risk manager
+risk management
+
+business analyst
+data analyst
+data scientist
+requirements engineer
+solution architect
+enterprise architect
+
+brand manager
+social media manager
+communications manager
+community manager
+
+quality manager
+quality engineer
+qa engineer
+
+office manager
+backoffice
+back office
+front office

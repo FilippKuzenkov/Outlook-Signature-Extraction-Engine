@@ -1,0 +1,95 @@
+# Department / team keywords (German + English)
+# Used by rules.detect_department, bottom-up over core_lines.
+
+marketing
+online marketing
+digital marketing
+performance marketing
+content marketing
+
+kommunikation
+unternehmenskommunikation
+corporate communications
+pr
+public relations
+
+vertrieb
+sales
+inside sales
+account management
+key account
+key account management
+customer success
+kundenservice
+kundendienst
+customer service
+support
+
+einkauf
+purchasing
+procurement
+beschaffung
+supply chain
+logistik
+logistics
+
+hr
+human resources
+people & culture
+talent acquisition
+recruiting
+recruitment
+
+it
+information technology
+it department
+it operations
+devops
+infrastruktur
+infrastructure
+
+finanzen
+finance
+buchhaltung
+accounting
+controlling
+controlling department
+financial controlling
+
+recht
+legal
+legal department
+rechtsabteilung
+compliance
+governance
+datenschutz
+data protection
+privacy
+
+produkte
+product
+product management
+produktmanagement
+entwicklung
+engineering
+r&d
+research and development
+
+operations
+betrieb
+geschäftsentwicklung
+business development
+strategy
+strategie
+
+esg
+sustainability
+nachhaltigkeit
+csr
+corporate responsibility
+
+quality
+qualitaet
+qualitätssicherung
+quality assurance
+qa
