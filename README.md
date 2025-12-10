@@ -1,10 +1,10 @@
-# 📧 Outlook Signature Intelligence Extraction Engine
+# 📧 Outlook Signature Extraction Engine
 
 **A production-grade ETL pipeline that extracts, cleans, enriches, and deduplicates contact signatures from Outlook mailboxes — built to solve a real strategic business problem.**
 
 ---
 
-## 🎯 Business Context & Problem
+##  Business Context & Problem
 
 During the preparation for the **2026 Marketing & Sales Strategy**, our team needed to understand who exactly across multiple client organizations was communicating with us, and how these individuals mapped to departmental and decision-making structures.
 
@@ -14,21 +14,21 @@ To support stakeholder mapping, communication planning, and strategic analysis, 
 
 ---
 
-## ✨ Impact & Value
+##  Impact & Value
 
 The system **eliminated weeks of manual review** and helped the marketing team identify the core audience, directly assisting with the 2026 Marketing Strategy preparation.
 
 | Metric | Result |
 | :--- | :--- |
 | **Emails Scanned** | 11,352 |
-| **High-Value Profiles Extracted** | $\approx$250–300 |
+| **High-Value Profiles Extracted** | 250–300 |
 | **Automatic Detections** | Names, Job Titles, Departments, Relevant Signature Context |
 
 The pipeline is reusable for ongoing strategic and operational analysis.
 
 ---
 
-## 🏗️ Project Overview & Architecture
+##  Project Overview & Architecture
 
 The **Outlook Signature Extraction Engine** transforms unstructured, multilingual email signatures into clean, structured datasets for analysis, CRM enrichment, and strategy building.
 
@@ -42,19 +42,19 @@ It is a robust multi-phase system designed for:
 ### Solution Architecture (ETL Pipeline)
 The system is built on a clear, isolated, and testable multi-phase structure.
 
+The data flow is structured as follows:
 
+  **Outlook Mailbox (11,352 emails)**
 
-$$
-\text{Outlook Mailbox (11,352 emails)} \xrightarrow{\text{Phase 1: Extraction \& JSONL Caching}} \text{HTML Cleaning + Signature Boundary Detection}
-$$
+  **Phase 1: Extraction & JSONL Caching**
 
-$$
-\xrightarrow{\text{Phase 2: NLP \& Rule-Based Enrichment}} \text{Ranking \& Deduplication of Contact Profiles} \xrightarrow{\text{Final Output}} \text{250–300 Structured Records (Excel/CSV)}
-$$
+  **HTML Cleaning + Signature Boundary Detection**
 
----
+  **Phase 2: NLP & Rule-Based Enrichment**
 
-## 🔧 Features
+  **Ranking & Deduplication of Contact Profiles**
+
+##  Features
 
 ### Signature Extraction
 * Noise-resistant **HTML normalization**.
@@ -80,7 +80,7 @@ $$
 
 ---
 
-## 💡 Engineering Approach & Design Principles
+##  Engineering Approach & Design Principles
 
 This project was developed with a focus on solving a complex operational problem while applying solid engineering practices suitable for scalable, maintainable data pipelines.
 
@@ -102,7 +102,7 @@ This project was developed with a focus on solving a complex operational problem
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | Category | Tools |
 | :--- | :--- |
@@ -115,7 +115,7 @@ This project was developed with a focus on solving a complex operational problem
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 ### Installation
 ```shell
