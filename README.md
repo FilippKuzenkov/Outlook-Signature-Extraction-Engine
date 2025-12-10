@@ -115,7 +115,7 @@ This project was developed with a focus on solving a complex operational problem
 
 ---
 
-##  Installation & Usage
+##  Installation
 
 ### Installation
 ```shell
