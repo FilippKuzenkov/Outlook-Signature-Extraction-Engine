@@ -1,4 +1,5 @@
 Outlook Signature Intelligence Extraction Engine
+
 A production-grade ETL pipeline that extracts, cleans, enriches, and deduplicates contact signatures from Outlook mailboxes — built to solve a real strategic business problem.
 ________________________________________
 Business Context
