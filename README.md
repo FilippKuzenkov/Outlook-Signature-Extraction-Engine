@@ -21,7 +21,7 @@ The system **eliminated weeks of manual review** and helped the marketing team i
 | Metric | Result |
 | :--- | :--- |
 | **Emails Scanned** | 11,352 |
-| **High-Value Profiles Extracted** | 250–300 |
+| **High-Value Profiles Extracted** | 300 |
 | **Automatic Detections** | Names, Job Titles, Departments, Relevant Signature Context |
 
 The pipeline is reusable for ongoing strategic and operational analysis.
