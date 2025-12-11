@@ -43,7 +43,7 @@ This allows the organization to:
 
 The project successfully delivered a clean, consistent dataset that is suitable for downstream business intelligence workflows.
 
-* **250–300 unique contact profiles extracted**
+* **300 unique contact profiles extracted**
 * **Clean, consistent dataset suitable for:**
     * CRM enrichment
     * Stakeholder mapping
