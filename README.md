@@ -118,6 +118,18 @@ This project was developed with a focus on solving a complex operational problem
 ##  Installation
 
 ### Installation
+Requires Windows with Outlook (Phase 1 uses the Outlook COM API) and Python 3.10+.
 ```shell
-git clone <repo-url>
+git clone https://github.com/FilippKuzenkov/Outlook-Signature-Extraction-Engine.git
+cd Outlook-Signature-Extraction-Engine
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+python -m spacy download de_core_news_sm
+```
+1. List the Outlook folder roots to scan in `config/folders.txt`.
+2. In `phase1_scan_folder.py` set `YEAR`, `ACTIVE_FOLDER_INDICES`, `SHARED_MAILBOX_NAME` and `INBOX_FOLDER_NAME`.
+3. Run Phase 1 (writes a JSONL cache to `cache/`):
+   `python phase1_scan_folder.py`
+4. Set the same `YEAR` and `ACTIVE_FOLDER_INDICES` in `phase2_signatures_from_cache.py`, then run:
+   `python phase2_signatures_from_cache.py`
+Phase 2 does not need Outlook. It reads the cache and writes the output CSV. See `output/example_output.csv` for a fictional example.
