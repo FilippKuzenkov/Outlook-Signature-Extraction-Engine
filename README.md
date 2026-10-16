@@ -1,6 +1,6 @@
 # 📧 Outlook Signature Extraction Engine
 
-**A production-grade ETL pipeline that extracts, cleans, enriches, and deduplicates contact signatures from Outlook mailboxes — built to solve a real strategic business problem.**
+**A Python ETL pipeline that extracts, cleans, enriches and deduplicates contact details from Outlook email signatures. Built during an internship to support stakeholder mapping for the 2026 marketing strategy.**
 
 ---
 
@@ -16,7 +16,7 @@ To support stakeholder mapping, communication planning, and strategic analysis, 
 
 ##  Impact & Value
 
-The system **eliminated weeks of manual review** and helped the marketing team identify the core audience, directly assisting with the 2026 Marketing Strategy preparation.
+The system replaced manual review of a mailbox of 11,352 emails and produced 300 high-value contact profiles for the marketing team’s audience analysis.
 
 | Metric | Result |
 | :--- | :--- |
